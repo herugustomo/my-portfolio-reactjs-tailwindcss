@@ -19,13 +19,21 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="font-semibold mb-2">LinkedIn</h3>
-              <p className="text-gray-400 text-sm">
-                linkedin.com/in/herugustomo
-              </p>
+              <a
+                href="https://www.linkedin.com/in/heru-gustomo-b324b1282/"
+                className="text-gray-400 text-sm hover:underline"
+              >
+                linkedin.com/in/heru-gustomo
+              </a>
             </div>
             <div>
               <h3 className="font-semibold mb-2">GitHub</h3>
-              <p className="text-gray-400 text-sm">github.com/herugustomo</p>
+              <a
+                href="https://github.com/herugustomo"
+                className="text-gray-400 text-sm hover:underline"
+              >
+                github.com/herugustomo
+              </a>
             </div>
           </div>
           {/* Right - Contact Form */}

@@ -1,22 +1,37 @@
-<<<<<<< HEAD
-# React + Vite
+# Heru Gustomo Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using **React.js**, **Vite**, and **Tailwind CSS**.  
+The website showcases my skills, projects, and contact information as a Frontend Developer.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View the live website here:
 
-## React Compiler
+https://my-portfolio-reactjs-tailwindcss.vercel.app
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Tech Stack
 
-Note: This will impact Vite dev & build performances.
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-portfolio-reactjs-tailwindcss
->>>>>>> 94b9ad90dcc38a642d49afcf27053833d2a4dc74
+- Responsive design (mobile & desktop)
+- Modern UI with Tailwind CSS
+- Smooth scrolling navigation
+- Active link navigation
+- Mobile hamburger menu
+- Projects showcase
+- Contact section
+
+## Installation
+
+If you want to run this project locally:
+
+```bash
+git clone https://github.com/herugustomo/my-portfolio-reactjs-tailwindcss.git
+```
